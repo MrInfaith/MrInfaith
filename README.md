@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Kundalwal</h1>
-<h3 align="center">Data science enthusiast ,eager to learn and start a career in the data Science and machine learning domain.</h3>
+<h3 align="center">"Data Science = Data + Algorithms + Domain Knowledge, where the art of extracting valuable insights from data is powered by the synergy of statistical analysis, machine learning, and contextual understanding." </h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1gB1GOPPJVcqy9tQlJvB8Q9Gmv7LnZzAITQ&usqp=CAU">
 - 💬 Ask me about **Data Science,Machine Learning .**
 
